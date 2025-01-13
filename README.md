@@ -92,5 +92,5 @@ This project is licensed under the MIT License.
 ---
 
 ## IDE
-This project was completed with the use of JetBrains' Pycharm
+This project was made with JetBrains' PyCharm
 
